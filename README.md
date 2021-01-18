@@ -1,2 +1,2 @@
-# discord-bos-altyapi
-Boş bir Discord bot altyapısıdır...
+# Discord Boş Bot Altyapısı
+Yapımcı: Vyper Artz#3866
